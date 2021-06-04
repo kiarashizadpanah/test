@@ -1,10 +1,3 @@
+print ("hello this is the message")
 
-print("KIARASH IZADPANAH")
-
-
-print('BRANCH NAME : EditingBranches')
-
-#editing message
-
-
-
+#it should be in correctone branch
